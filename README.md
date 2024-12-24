@@ -34,5 +34,14 @@ A secure and user-friendly online banking portal built with Java and Spring Boot
    - Install dependencies: `npm install`.
    - Start development server: `npm start`.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+5. Access the Portal:
+   - Visit  `http://localhost:3000 ` for the frontend (if ReactJS).
+   - Visit  `http://localhost:8080 ` for backend API access.
+
+## Contribution
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Open a pull request for review.
+
